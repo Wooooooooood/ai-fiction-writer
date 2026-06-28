@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+<rect width="600" height="400" fill="#f8f9fa"/>
+<text x="20" y="30" font-family="sans-serif" font-size="18" font-weight="bold" fill="#333">东海城 (城市)</text>
+<circle cx="180" cy="80" r="12" fill="#d0021b" stroke="#333" stroke-width="2" opacity="1.0"/>
+<text x="180" y="107" font-family="sans-serif" font-size="12" fill="#333" text-anchor="middle">上城区</text>
+<text x="180" y="84" font-family="sans-serif" font-size="9" fill="white" text-anchor="middle">L3</text>
+<circle cx="420" cy="240" r="12" fill="#d0021b" stroke="#333" stroke-width="2" opacity="1.0"/>
+<text x="420" y="267" font-family="sans-serif" font-size="12" fill="#333" text-anchor="middle">下城区</text>
+<text x="420" y="244" font-family="sans-serif" font-size="9" fill="white" text-anchor="middle">L3</text>
+<circle cx="300" cy="320" r="12" fill="#d0021b" stroke="#333" stroke-width="2" opacity="1.0"/>
+<text x="300" y="347" font-family="sans-serif" font-size="12" fill="#333" text-anchor="middle">港口区</text>
+<text x="300" y="324" font-family="sans-serif" font-size="9" fill="white" text-anchor="middle">L3</text>
+<text x="20" y="380" font-family="sans-serif" font-size="12" fill="#999">迷雾区域：北郊矿山、西海岸线</text>
+<text x="450" y="60" font-family="sans-serif" font-size="12" font-weight="bold" fill="#333">图例</text>
+<circle cx="460" cy="81" r="6" fill="#4a90e2"/>
+<text x="475" y="85" font-family="sans-serif" font-size="11" fill="#333">世界</text>
+<circle cx="460" cy="101" r="6" fill="#50c878"/>
+<text x="475" y="105" font-family="sans-serif" font-size="11" fill="#333">区域</text>
+<circle cx="460" cy="121" r="6" fill="#f5a623"/>
+<text x="475" y="125" font-family="sans-serif" font-size="11" fill="#333">城市</text>
+<circle cx="460" cy="141" r="6" fill="#d0021b"/>
+<text x="475" y="145" font-family="sans-serif" font-size="11" fill="#333">场景</text>
+<circle cx="460" cy="161" r="6" fill="#9013fe"/>
+<text x="475" y="165" font-family="sans-serif" font-size="11" fill="#333">细节</text>
+<circle cx="460" cy="181" r="6" fill="#cccccc"/>
+<text x="475" y="185" font-family="sans-serif" font-size="11" fill="#333">迷雾</text>
+</svg>

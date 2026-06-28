@@ -1,0 +1,23 @@
+{
+  "name": "苍澜界",
+  "level": "L0",
+  "coordinate_system": "relative_2d",
+  "regions": [
+    {
+      "name": "东大陆",
+      "level": "L1",
+      "unlocked_by": "init",
+      "coordinates": {"x": 0.7, "y": 0.3}
+    },
+    {
+      "name": "西大陆",
+      "level": "L1",
+      "unlocked_by": "ch02",
+      "coordinates": {"x": 0.2, "y": 0.4}
+    }
+  ],
+  "connections": [
+    {"from": "东大陆", "to": "西大陆", "method": "远洋航线", "time": "3个月"}
+  ],
+  "fog_of_war": ["北境冰原", "南海群岛"]
+}

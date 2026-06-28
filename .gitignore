@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/settings.json.local
+.idea/
+*.swp
+*.swo
+*~
+
+# Project runtime / sensitive
+.env
+.env.local
+*.log
+.novel/runtime/
+.novel/cache/
+
+# Temporary files
+/tmp/
+*.tmp
