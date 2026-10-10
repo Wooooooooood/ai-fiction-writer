@@ -73,16 +73,20 @@
 ```
 ai-fiction-writer/
 ├── README.md
+├── CHANGELOG.md                # 更新日志
 ├── LICENSE
 ├── .gitignore
 └── 纯净版skill/
     ├── PRD.md                    # 产品架构与需求
     ├── 写作工作流.md              # 完整工作流
     ├── novel-analyze/
+    │   └── references/           # 拆文方法论、文风学习指南
     ├── novel-character/
+    │   └── references/           # 人物设计方法论
     ├── novel-knowledge/
     ├── novel-outline/
     ├── novel-worldbuilding/
+    │   └── references/           # 世界地图构建方法
     ├── novel-logic/
     ├── novel-progress/
     ├── novel-writing/
@@ -93,6 +97,15 @@ ai-fiction-writer/
         ├── generate_map.py
         └── test_data/
 ```
+
+---
+
+## 更新日志
+
+详见 [CHANGELOG.md](CHANGELOG.md)。
+
+- **2026-10-10**：新增方法论参考文档——`novel-analyze` 补充拆文方法论与文风学习指南，`novel-character` 补充人物设计方法论，`novel-worldbuilding` 补充世界地图构建方法。全部为从参考小说拆解学习中沉淀的通用方法论（不含具体作品内容），既有 Skill 正文未改动。
+- **2026-06-28**：首次发布，十大 Skill 体系 + PRD + 写作工作流 + 辅助脚本。
 
 ---
 
